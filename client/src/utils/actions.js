@@ -1,3 +1,4 @@
+export const PRODUCTS_LIST = "PRODUCTS_LIST";
 export const UPDATE_PRODUCTS = "UPDATE_PRODUCTS";
 
 export const ADD_TO_CART = "ADD_TO_CART";
