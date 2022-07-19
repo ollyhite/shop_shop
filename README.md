@@ -22,7 +22,7 @@ As a senior engineer working on an e-commerce platform, I want my platform to us
 ## Installation
 
 ```
- git clone https://github.com/ollyhite/books_finder.git
+ git clone https://github.com/ollyhite/shop_shop.git
 ```
 
 - create a file
