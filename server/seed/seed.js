@@ -8,7 +8,6 @@ db.once("open", async () => {
     await User.deleteMany({});
     await Product.deleteMany({});
     await Category.deleteMany({});
-    const newUsers = await User.create(userSeeds);
     const newProduct = await Product.create(productsSeeds);
     const newCategory = await Category.create(categorySeeds);
     // for (let index = 0; index < newUsers.length; index++) {

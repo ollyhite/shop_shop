@@ -1,1 +1,6 @@
-["electronics", "jewelery", "men's clothing", "women's clothing"]
+[
+  { "name": "electronics" },
+  { "name": "jewelery" },
+  { "name": "men's clothing" },
+  { "name": "women's clothing" }
+]
