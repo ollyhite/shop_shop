@@ -68,9 +68,6 @@ As a senior engineer working on an e-commerce platform, I want my platform to us
 - [Pei-Yun Hite's Github Link](https://github.com/ollyhite)
 - Send Qquestions or suggestions for changes to the readme_generator_tool project maintainer, [Pei-Yun Hite](mailto:ollyhite8520@gmail.com?subject=[GitHub]%20employee_organizer%20) , for consideration.
 
-## Credits
-
-https://github.com/coding-boot-camp/solid-broccoli
 
 ## License
 
